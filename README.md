@@ -1,4 +1,4 @@
-### Hi there 👋 my name is Alaina
+### Hi there 👋 my name is Alaina Ge
 
 <!--
 **Alaina-gl/Alaina-gl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -1,8 +1,8 @@
 ### Hi there 👋 my name is ✨ Alaina Ge ✨
 
 - 🫷🫸 I'm a computer science student doing their second degree at UBC.
-- 🔭 I’m currently working on a clinical triage application that can triage patients based on presenting symptoms and history.
-- 🌱 I’m currently learning java and business development!
+- 🔭 I’m currently working on a tennis ranking application that can keep track of tennis players' rankings based on Doubles games.
+- 🌱 I’m currently learning C++!
 - 😄 I like to hack and work part-time as a registered nurse in reproductive health.
 <!--
 **Alaina-gl/Alaina-gl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
